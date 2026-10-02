@@ -1,8 +1,8 @@
-# 🎓 EduTrack Portal
+#  EduTrack Portal
 
 EduTrack Portal is a simple web-based Student Management System designed to add, search, and manage student details in an organized way.
 
-## ✨ Features
+##  Features
 
 - Add student details
 - Store student name, department, and email
@@ -10,21 +10,21 @@ EduTrack Portal is a simple web-based Student Management System designed to add,
 - Display student details in a table
 - Delete student records
 - Simple and user-friendly interface
-
-## 🛠️ Technologies Used
+- 
+##  Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## 📌 How to Run
+##  How to Run
 
 1. Download or clone this repository.
 2. Open the project folder.
 3. Open `index.html` in your browser.
 4. Start adding and managing student details.
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Database integration
 - Student login and authentication
